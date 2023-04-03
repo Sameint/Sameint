@@ -1,3 +1,4 @@
+![logo](https://github.com/Sameint/Sameint/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ram Narayan</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="coading" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif"/>

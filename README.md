@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **shukla.narayanram@gmail.com**
 
-- ⚡ Fun fact **I think i am serious guy**
+- ⚡ Fun fact **I think i am serious guy*😎*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
